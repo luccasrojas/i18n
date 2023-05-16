@@ -1,0 +1,10 @@
+{
+    "Position": "Position",
+    "Company": "Company",
+    "Salary": "Salary",
+    "City": "City",
+    "PublicationDate": "PublicationDate",
+    "Views": "Views",
+    "MoneySingular":" Million",
+    "MoneyPlural":" Millions"
+}
